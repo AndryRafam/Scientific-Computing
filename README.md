@@ -1,2 +1,1 @@
-# Scientific-Computing
-# Coming soon
+# Coming Soon
