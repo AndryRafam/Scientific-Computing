@@ -115,6 +115,7 @@ operator<< (std::ostream& out, const quaternion<T>& h) {
     return out;
 }
 
+// input
 template <typename T>
 std::istream&
 operator>> (std::istream& is, quaternion<T>& h) {
