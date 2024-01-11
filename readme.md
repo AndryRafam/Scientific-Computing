@@ -2,5 +2,5 @@
 
 <h2>About</h2>
 
-This repository contains implementation in C++ of mathematical methods such as: Quaternions, Fourier Transformation, Finite Element Method ... for scientific computing / numerical simulation. Numerical simulation became very useful in many fiedls, Fluid Mechanics, Climate Change, Biology ...
+C++ implementation of mathematical methods such as: Quaternions, Fourier Transformation and its applications, Finite Element Method ... for scientific computing / numerical simulation. Numerical simulation became very useful in many fiedls, Fluid Mechanics, Climate Change, Biology ...
 Algorithms are implemented through (C++) generic programming techniques.
