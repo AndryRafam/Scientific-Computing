@@ -4,7 +4,7 @@
 
 <h2>About</h2>
 
-Programming for computations in C++ and GNU Octave. Contains solutions implementation of real world mathematical problems such as: ODE, PDE, Non Linear Algebraic Equations etc.
+Programming for computations in C++, GNU Octave and Python. Contains solutions implementation of real world mathematical problems such as: ODE, PDE, Non Linear Algebraic Equations etc.
 This repository is widely inspired by the following books:
 
 1) Programming for Computations - Matlab/Octave (Svein Linge and Hans Petter Langtangen) https://link.springer.com/book/10.1007/978-3-319-32452-4
