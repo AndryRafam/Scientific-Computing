@@ -8,5 +8,6 @@ Programming for computations in C++, GNU Octave and Python. Contains solutions i
 This repository is widely inspired by the following books:
 
 1) Programming for Computations - Matlab/Octave (Svein Linge and Hans Petter Langtangen) https://link.springer.com/book/10.1007/978-3-319-32452-4
-2) Langage C++ et Calcul Scientifique (French Edition - Pierre Saramito) https://www.amazon.com/Langage-C-Calcul-Scientifique-French/dp/1848901011
+2) Programming for Computations - Python 2nd edition (Svein Linge and Hans Petter Langtangen) https://link.springer.com/book/10.1007/978-3-030-16877-3
+3) Langage C++ et Calcul Scientifique (French Edition - Pierre Saramito) https://www.amazon.com/Langage-C-Calcul-Scientifique-French/dp/1848901011
    
