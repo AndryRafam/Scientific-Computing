@@ -1,7 +1,7 @@
 def trapezoidal(f,a,b,n):
-	h = float(b-a)/n
-	result = 0.5*f(a) + 0.5*f(b)
+	h = (b-a)/n
+	f_sum = 0
 	for i in range(1,n):
-		result += f(a + i*h)
-	result *= h
-	return result
+		x = a + i*h
+		f_sum = f_sum + f(x)
+	return h*(0.5*f(a) + f_sum + 0.5*f(b))
