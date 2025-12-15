@@ -18,6 +18,6 @@ if __name__ == "__main__":
 
 	if roots_numpy:
 		roots_python_form = [float(r) for r in roots_numpy]
-		print(roots_python_form) # Print solution in pythonic format
+		print(roots_python_form) # Print solution in pythonic style
 	else:
 		print('Could not find any roots')
