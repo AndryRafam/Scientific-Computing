@@ -35,7 +35,7 @@ if __name__ == "__main__":
 	minima_np, maxima_np = brute_force_optimized(
 		lambda x: np.exp(-x**2)*np.cos(4*x), 0,4,1001)
 
-	# python style
+	# pythonic style
 	minima_py = [(float(x_val), float(y_val)) for x_val, y_val in minima_np]
 	maxima_py = [(float(x_val), float(y_val)) for x_val, y_val in maxima_np]
 
