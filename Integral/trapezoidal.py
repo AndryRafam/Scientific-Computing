@@ -20,7 +20,7 @@ if __name__ == "__main__":
 	I_trap = trap(f,a,b,n)
 	# here the exact value of the integral of sin(x) between 0 and pi is known
 	exact_value = 2 
-	# difference the exact value of the integral and its compute value
+	# difference between the exact value of the integral and its compute value
 	err_trap = exact_value-I_trap
 	# print both
 	print(I_trap)
