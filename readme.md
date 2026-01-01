@@ -4,5 +4,5 @@
 
 <h2>scientific computing</h2>
 
-Programming for computations in C++, GNU Octave and Python. ODE, PDE, Integral, Non Linear Algebraic Equations etc.
+Programming for computations ...
    
