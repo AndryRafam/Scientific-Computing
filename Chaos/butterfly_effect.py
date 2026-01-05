@@ -60,8 +60,8 @@ if sol1.success and sol2.success:
 	fig = plt.figure(figsize=(12,10))
 
 	# 1st trajectory
-	ax = fig.add_subplot(121,projection="3d")
-	ax.plot(x1,y1,z1,lw=0.5,color="black",label='Trajectory 1: {}'.format(initial_conditions_1),alpha=1)
+	ax = fig.add_subplot(1,3,1,projection="3d")
+	ax.plot(x1,y1,z1,lw=0.5,color="blue",label='Trajectory 1: {}'.format(initial_conditions_1),alpha=1)
 	ax.set_xlabel("X")
 	ax.set_ylabel("Y")
 	ax.set_zlabel("Z")
@@ -69,8 +69,18 @@ if sol1.success and sol2.success:
 	ax.grid(True)
 	
 	# 2nd trajectory
-	ax = fig.add_subplot(122,projection="3d")
-	ax.plot(x2,y2,z2,lw=0.5,color="red",label='Trajectory 2: {}'.format(initial_conditions_2),alpha=1)
+	ax = fig.add_subplot(1,3,2,projection="3d")
+	ax.plot(x2,y2,z2,lw=0.5,color="red",linestyle="--",label='Trajectory 2: {}'.format(initial_conditions_2),alpha=1)
+	ax.set_xlabel("X")
+	ax.set_ylabel("Y")
+	ax.set_zlabel("Z")
+	ax.legend()
+	ax.grid(True)
+
+	# plot together
+	ax = fig.add_subplot(1,3,3,projection="3d")
+	ax.plot(x1,y1,z1,lw=0.5,color="blue",label="Trajectory 1 : {}".format(initial_conditions_1),alpha=1)
+	ax.plot(x2,y2,z2,lw=0.5,color="red",linestyle="--",label="Trajectory 2 : {}".format(initial_conditions_2),alpha=1)
 	ax.set_xlabel("X")
 	ax.set_ylabel("Y")
 	ax.set_zlabel("Z")
