@@ -4,5 +4,5 @@
 
 <h2>scientific computing</h2>
 
-Programming for computations ...
+Programming for computations.
    
