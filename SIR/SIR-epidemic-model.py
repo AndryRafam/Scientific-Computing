@@ -1,7 +1,5 @@
 # SIR epidemic model
-# Runge-Kutta 3(2) solver
 # Runge-Kutta 5(4) solver
-# Radau
 
 import numpy as np
 import matplotlib.pyplot as plt
