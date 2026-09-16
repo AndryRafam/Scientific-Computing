@@ -6,11 +6,11 @@
 
 <h3 align="center"> Lorenz Attractor </h3>
 
-![](Program-Output/lorenz_attractor.gif) 
+![](Chaos/lorenz_attractor.gif) 
 
 <h3 align="center"> Butterfly Effect </h3>
 
-![](Program-Output/butterfly_effect_animation.gif)
+![](Chaos/butterfly_effect_animation.gif)
 
 
    
