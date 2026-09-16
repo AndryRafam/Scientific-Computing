@@ -2,7 +2,7 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h1>scientific computing</h1>
+<h1>Scientific Computing</h1>
 
 <h3 align="center"> Lorenz Attractor </h3>
 
