@@ -2,7 +2,15 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2>scientific computing</h2>
+<h1>scientific computing</h1>
 
-Programming for computations.
+<h3 align="center"> Lorenz Attractor </h3>
+
+![](Chaos/lorenz_attractor.gif) 
+
+<h3 align="center"> Butterfly Effect </h3>
+
+![](Chaos/butterfly_effect_animation.gif)
+
+
    
