@@ -4,10 +4,6 @@
 
 <h1>Scientific Computing</h1>
 
-<h3 align="center"> Lorenz Attractor </h3>
-
-![](Chaos/lorenz_attractor.gif) 
-
 <h3 align="center"> Butterfly Effect </h3>
 
 ![](Chaos/butterfly_effect_animation.gif)
